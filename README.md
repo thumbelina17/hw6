@@ -4,23 +4,23 @@
 # HW 6 #
 
 
-## Часть 1. Google Ngram. ##
+#Часть 1. Google Ngram. #
 
 
-### Задание 1. Due to the. ###
+# Задание 1. Due to the. #
 
 
 ![](https://github.com/thumbelina17/hw6/blob/master/N7fUTUPm_bI.jpg)
 
 
 
-##### Задание 2. Синонимичные глаголы.#####
+# Задание 2.#
 
 
 ![](https://github.com/thumbelina17/hw6/blob/master/df88JmdGRfc.jpg)
 
 
-###### Задание 3. Синонимы в бритаснком и американском английском. ######
+# Задание 3. Синонимы в бритаснком и американском английском. #
 
 ![](https://github.com/thumbelina17/hw6/blob/master/цг.jpg)
 
@@ -34,16 +34,16 @@
 
 
 
-########### Часть 2. Sketch ENgine. ###########
+## Часть 2. Sketch ENgine. ##
 
 
-############ Задание 1. Три самых частых модификатора.###########
+# Задание 1. Три самых частых модификатора.#
 
 ![](https://github.com/thumbelina17/hw6/blob/master/G2YD_UvXHkQ.jpg)
 
 
 
-############## Задание 2. Два синонимичных глагола.#############
+# Задание 2. Два синонимичных глагола.#
 
 ![](https://github.com/thumbelina17/hw6/blob/master/bbnicwJC9l0.jpg)
 
