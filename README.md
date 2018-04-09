@@ -4,7 +4,7 @@
 # HW 6 #
 
 
-#Часть 1. Google Ngram. #
+# Часть 1. Google Ngram. #
 
 
 # Задание 1. Due to the. #
@@ -14,7 +14,7 @@
 
 
 
-# Задание 2.#
+# Задание 2. #
 
 
 ![](https://github.com/thumbelina17/hw6/blob/master/df88JmdGRfc.jpg)
