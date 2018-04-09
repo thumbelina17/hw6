@@ -37,13 +37,13 @@
 ## Часть 2. Sketch ENgine. ##
 
 
-# Задание 1. Три самых частых модификатора.#
+# Задание 1. Три самых частых модификатора. #
 
 ![](https://github.com/thumbelina17/hw6/blob/master/G2YD_UvXHkQ.jpg)
 
 
 
-# Задание 2. Два синонимичных глагола.#
+# Задание 2. Два синонимичных глагола. #
 
 ![](https://github.com/thumbelina17/hw6/blob/master/bbnicwJC9l0.jpg)
 
